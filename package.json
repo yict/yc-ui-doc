@@ -1,0 +1,21 @@
+{
+  "name": "yc-ui-doc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async-validator": "^1.11.5",
+    "element-ui": "^2.15.14",
+    "highlight.js": "^11.9.0",
+    "node-sass": "^9.0.0",
+    "sass-loader": "^13.3.2",
+    "vuepress": "^1.9.10"
+  }
+}
